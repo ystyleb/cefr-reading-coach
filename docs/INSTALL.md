@@ -12,7 +12,7 @@
 ### Option A: global (available in all projects)
 
 ```bash
-git clone https://github.com/<your-username>/cefr-reading-coach.git \
+git clone https://github.com/ystyleb/cefr-reading-coach.git \
   ~/.claude/skills/cefr-reading-coach
 ```
 
@@ -20,7 +20,7 @@ git clone https://github.com/<your-username>/cefr-reading-coach.git \
 
 ```bash
 cd /path/to/your/project
-git clone https://github.com/<your-username>/cefr-reading-coach.git \
+git clone https://github.com/ystyleb/cefr-reading-coach.git \
   .claude/skills/cefr-reading-coach
 ```
 

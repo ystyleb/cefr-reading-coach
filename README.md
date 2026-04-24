@@ -49,7 +49,7 @@ Coach: ✅ You caught X, Y, Z.
 
 ```bash
 # In your Claude Code project (or globally in ~/.claude/skills/)
-git clone https://github.com/<your-username>/cefr-reading-coach.git \
+git clone https://github.com/ystyleb/cefr-reading-coach.git \
   .claude/skills/cefr-reading-coach
 ```
 
