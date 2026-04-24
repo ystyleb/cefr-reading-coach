@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Obsidian (in case anyone clones into their vault and runs)
+.obsidian/
+
+# Temp / build
+*.log
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Local user audio (don't commit personal audio cache)
+**/audio/*.mp3
+!examples/audio/*.mp3
